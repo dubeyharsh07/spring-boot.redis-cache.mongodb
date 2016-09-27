@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring_Boot_Redis_NoSql:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-boot-redis-mongodb.war">
+      <element id="artifact" artifact-name="Spring_Boot_Redis_NoSql:war exploded" />
+    </root>
+  </artifact>
+</component>
